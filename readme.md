@@ -34,20 +34,6 @@ Ab der 3. Überschrift wird automatisch ein Seiten Menu erstellt
 
 <i>italic</i>
 
-```
- ''monospaced''
-```
-
-''monospaced''
-
-<code>monospaced</code>
-
-```
-**__//''combine''//__**
-```
-
-<b><i><u><code>combine</code></u></i></b>
-
 ## Text align
 
 `Text <sub>tief</sub> oder <sup>hoch</sup> stellen.`
@@ -175,8 +161,8 @@ Wir brauchen das!
 <tr><td>blablabla</td><td>blablabla</td></tr>
 <tr><td>blablabla</td><td>blablabla</td></tr>
 <tr>
-<td valign="left">left</td>
-<td style="text-align='enter'">center</td>
-<td valign="right">right</td></tr>
+<td align="left">left</td>
+<td align="center">center</td>
+<td align="right">right</td></tr>
 </tbody>
 </table>
