@@ -35,16 +35,10 @@ Ab der 3. Überschrift wird automatisch ein Seiten Menu erstellt
 <i>italic</i>
 
 ```
- __underlined__
-```
-
-__underlined__
-
-<u>underlined</u>
-
-```
  ''monospaced''
 ```
+
+''monospaced''
 
 <code>monospaced</code>
 
